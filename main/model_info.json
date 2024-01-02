@@ -1,0 +1,26 @@
+ {
+    
+    "calliope":{
+        "engine":"capulet",
+        "battery":"spindler"
+      },
+      "glissade":{
+        "engine":"willoughby",
+        "battery":"spindler"
+      },
+      "palindrome":{
+        "engine":"sternman",
+        "battery":"spindler"
+      },
+      "rorschach":{
+        "engine":"willoughby",
+        "battery":"nubbin"
+      },
+      "thorex":{
+        "engine":"capulet",
+        "battery":"nubbin"
+      }
+}      
+
+
+
